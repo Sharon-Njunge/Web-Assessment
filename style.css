@@ -1,0 +1,75 @@
+.top-nav{
+    display: flex;
+    justify-content: space-around;
+}
+.section1{
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    font-size: 60px;
+}
+.line1{
+    display: flex;
+    justify-content: space-around;
+}
+.line2{
+    display: flex;
+    justify-content: space-around;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+}
+.nav2{
+    display: flex;
+    justify-content: space-around;
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+}
+.text3{
+    display: flex;
+    justify-content: space-around;
+}
+.section4{
+    display: flex;
+    justify-content: space-around;
+}
+.section5{
+    display: flex;
+    margin-left: 20%;
+    justify-content: space-around;
+}
+.text7{
+    text-align: center;
+}
+.section6{
+    display: flex;
+    justify-content: space-around;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+.text11{
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+@media screen and (max-width= 600px){
+    
+}
+
